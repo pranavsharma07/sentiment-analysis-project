@@ -1,0 +1,21 @@
+Response ID,Timestamp,Text Response,Age,Location,sentiment_score,sentiment_category
+1,2024-11-01 00:00,exceeded my expectations!,40,UK,0.0,Neutral
+3,2024-11-01 00:30,"great product overall, very happy with it.",34,Australia,0.6,Positive
+4,2024-11-01 00:45,the recent update has slowed things down.,38,Australia,-0.07777777777777778,Negative
+5,2024-11-01 01:00,product quality is excellent.,21,Canada,1.0,Positive
+6,2024-11-01 01:15,service could be faster.,37,Canada,0.0,Neutral
+7,2024-11-01 01:30,customer service was helpful and quick.,26,UK,0.3333333333333333,Positive
+10,2024-11-01 02:15,i love the new update! it's amazing.,40,Australia,0.4234848484848485,Positive
+12,2024-11-01 02:45,i am disappointed with the product.,22,Canada,-0.75,Negative
+14,2024-11-01 03:15,support team was not helpful.,51,Australia,0.0,Neutral
+20,2024-11-01 04:45,the app keeps getting better and better.,29,US,0.5,Positive
+21,2024-11-01 05:00,excellent quality and easy to use.,55,India,0.7166666666666667,Positive
+26,2024-11-01 06:15,too many bugs in the app.,22,UK,0.5,Positive
+28,2024-11-01 06:45,not very satisfied with support.,32,US,-0.1923076923076923,Negative
+35,2024-11-01 08:30,not satisfied with the recent changes.,46,Canada,-0.125,Negative
+42,2024-11-01 10:15,i am extremely satisfied with the features.,31,Germany,0.5,Positive
+44,2024-11-01 10:45,not user-friendly enough for beginners.,41,US,0.0,Neutral
+46,2024-11-01 11:15,response time needs improvement.,40,India,0.0,Neutral
+48,2024-11-01 11:45,fantastic customer experience.,34,India,0.4,Positive
+65,2024-11-01 16:00,it meets all my expectations.,32,UK,0.0,Neutral
+84,2024-11-01 20:45,the app crashed multiple times.,29,US,0.0,Neutral
